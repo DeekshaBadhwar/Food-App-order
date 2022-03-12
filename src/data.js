@@ -11,9 +11,9 @@ const data = {
     price:50
 },
 {
-  id:'1',
+  id:'3',
   food:'chocolava',
-  price:90
+  price:80
 },
 ]
   
